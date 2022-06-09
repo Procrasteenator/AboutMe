@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name_text">Devansh Pandey</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name ="my_bio">Hello my name is Devansh and
+        \nI am learning Android Development.
+        \n I started Learning Android Development during my freshmen year
+    \n and since then I am constantly learning and making basic apps
+     I made a Login and Registration System as a part of my Freshmen Year End Project
+    \n The app uses Firebase to save registered users name , email and password
+    \n If the user is registered  it moves to the welcome screen
+    \n Otherwise a Toast pops up with a message that the user is not registered
+    \n Besides that I made a simple Dice app which on clicking the button gives a us value
+    on the dice and also as a toast
+    \n That\'s all for now
+    \n right now working on this About ME app which uses scroll view to show text .
+    \n
+    </string>
+    <string name="ask_name">Enter Your Nickname</string>
+    <string name="button_done">Done</string>
+    <string name="initial_text">TextView</string>
+</resources>
